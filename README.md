@@ -26,6 +26,18 @@ This project analyzes an e-commerce sales dataset using Python. It includes data
 - Git & GitHub
 
 ## Project Steps
+
+### Day 1 : Enviroment Setup 
+- Installed Python and VS Code
+- Set up Jupyter Notebook
+- Initialized Git and GitHub repository
+- Organized the project folder structure 
+
+### Day 2 : Dataset & Research
+- Selected the Sample Superstore dataset 
+- Studied the dataset columns and business problem 
+- Loaded the dataset into the project
+
 ### Day 3: Data Exploration
 - Loaded the dataset
 - Checked shape and data types
