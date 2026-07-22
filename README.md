@@ -3,8 +3,11 @@
 ## Project Overview
 This project analyzes an e-commerce sales dataset using Python. It includes data exploration, data cleaning, feature engineering, and preparation for machine learning.
 
+## Problem Statement 
+The goal of this project is to analyze an e-commerce sales dataset and identify sales trends, top-performing products, profitable categories , and customer purchasing behaviour.  
+
 ## Dataset
-- Dataset: Sample Superstore Dataset
+- Dataset: Sample Superstore Dataset from Kaggle
 - Format: CSV
 - Features include:
   - Ship Mode
@@ -15,7 +18,16 @@ This project analyzes an e-commerce sales dataset using Python. It includes data
   - Discount
   - Profit
 
-## Tools & Libraries
+  ## Project Approach 
+  1. Import required libraries 
+  2. Load dataset
+  3. Perform Data Cleaning 
+  4. Explore the data 
+  5. Analyze sales and profit 
+  6. Create visualizations
+  7. Draw business insights 
+
+  ## Tools & Libraries
 - Python
 - Pandas
 - NumPy
@@ -56,6 +68,13 @@ This project analyzes an e-commerce sales dataset using Python. It includes data
 - Encoded categorical variables
 - Scaled numerical features
 - Split the dataset into training and testing sets
+
+## Project Screenshots
+
+### Sales Chart
+
+![Sales Chart] (images/sales_chart.png)
+![Quantity Distribution] (images/quantity histogram.png)
 
 ## Project Structure
 
