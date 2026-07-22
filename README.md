@@ -69,17 +69,32 @@ The goal of this project is to analyze an e-commerce sales dataset and identify 
 - Scaled numerical features
 - Split the dataset into training and testing sets
 
+### Day 6 : GitHub & Documentation 
+- Added comments to code blocks
+- Updated README 
+- Added charts in README
+
+### Day 7 : Review & Planning 
+- Reviewed everything till now 
+- Update my progress to Linkedin & GitHub
+- Move Ahead to Week 2 
+
+###  Day 8 :  Core Feature 1 
+-
+
 ## Project Screenshots
 
-### Sales Chart
-![Quantity Distribution](<images/quantity histogram.png>)
+### Line Chart of Average Sales by Sub_Category
+![Line Chart](<images/line chart.png>)
 
-![Sales by Category](images/sales_chart.png)
+### Bar Chart of Sales by Sub_Category
+![Bar Chart](<images/bar chart.png>)
+
 
 ## Project Structure
 
 E-commerce-sales-analysis/
-│── data/
+│── data/(data/SampleSuperstore.csv)
 │── docs/
 │── src/
 │── README.md
