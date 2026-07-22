@@ -72,9 +72,9 @@ The goal of this project is to analyze an e-commerce sales dataset and identify 
 ## Project Screenshots
 
 ### Sales Chart
+![Quantity Distribution](<images/quantity histogram.png>)
 
-![Sales Chart] (images/sales_chart.png)
-![Quantity Distribution] (images/quantity histogram.png)
+![Sales by Category](images/sales_chart.png)
 
 ## Project Structure
 
