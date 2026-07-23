@@ -80,7 +80,13 @@ The goal of this project is to analyze an e-commerce sales dataset and identify 
 - Move Ahead to Week 2 
 
 ###  Day 8 :  Core Feature 1 
--
+- implemented first core feature 
+- done testing with 5 different inputs 
+- handle edge cases 
+- added a brief comment block 
+
+### Day 9 : Core Feature 2
+ 
 
 ## Project Screenshots
 
